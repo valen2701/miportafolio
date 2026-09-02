@@ -47,3 +47,18 @@ body {
     border: 1px solid var(--color-secundario);
     box-shadow: 0 20px 50px rgba(124, 58, 237, 0.25);
 }
+.sobre-mi {
+    padding: 100px 0;
+}
+
+.sobre-mi h2 {
+    margin-bottom: 100px;
+}
+
+.sobre-mi p {
+    color: var(--color-texto-secundario);
+    font-size: 1.1rem;
+    line-height: 1.6;
+    max-width: 640px;
+    margin-bottom: 32px;
+}
