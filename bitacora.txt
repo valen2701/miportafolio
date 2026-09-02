@@ -1,0 +1,24 @@
+Este proyecto consiste en crear un portfolio web personal para mostrar
+informacion sobre mi, mis habilidades y algunos de los proyectos que fui
+haciendo. Para hacerlo utilice principalmente HTML y CSS, ademas de Bootstrap
+
+Bitacora
+
+Dia 1:
+Primero hice un tipo de boceto en paint para tener una idea de como queria que fuera
+la pagina, tanto en el formato como en la parte visual. Ahi fui pensando donde
+poner cada seccion y como organizar la info
+
+Dia 2
+Empece a pasar el diseño de Paint a HTML y CSS. Investigue como organizar las
+secciones y como usar diferentes propiedades de CSS para darle el aspecto que
+queria. Aca me ayudo mucho Bootstrap ya que me daba ideas y el codigo de como se hacia
+
+Dia 3
+Agregue las secciones de habilidades y proyectos, y busque como utilizar
+iconos y fuentes externas para mejorar la parte visual.
+Por ultimo, trabaje en la seccion de contacto y agregue algunas funciones, como el cambio entre modo claro u oscuro y las animaciones de las
+secciones.
+
+Durante estos dias fui probando diferentes cosas y buscando informacion cuando
+no sabia como hacer alguna parte del proyecto.
