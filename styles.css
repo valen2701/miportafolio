@@ -45,8 +45,6 @@ body.light-mode .logo-navbar {
     }
 }
 
-/* Modo claro */
-
 body.light-mode {
     --color-fondo: #f8f7fc;
     --color-fondo-secundario: #ffffff;
@@ -110,7 +108,6 @@ body.light-mode .navbar-toggler-icon {
     border-color: var(--color-principal);
 }
 
-/* Hero */
 
 .firstcontainer {
     min-height: 100vh;
@@ -175,8 +172,6 @@ body.light-mode .navbar-toggler-icon {
     box-shadow: 0 10px 25px rgba(124, 58, 237, 0.35);
 }
 
-/* Reveal al hacer scroll */
-
 .reveal {
     opacity: 0;
     transform: translateY(30px);
@@ -187,8 +182,6 @@ body.light-mode .navbar-toggler-icon {
     opacity: 1;
     transform: translateY(0);
 }
-
-/* Sobre mi */
 
 #sobre-mi {
     padding: 100px 0;
@@ -205,8 +198,6 @@ body.light-mode .navbar-toggler-icon {
     max-width: 640px;
     margin-bottom: 32px;
 }
-
-/* Habilidades */
 
 #habilidades {
     padding: 100px 0;
@@ -342,8 +333,6 @@ body.light-mode .navbar-toggler-icon {
     box-shadow: 0 8px 20px rgba(124, 58, 237, 0.4);
     transform: translateY(-2px);
 }
-
-/* Footer */
 
 footer {
     background-color: var(--color-fondo-secundario);
