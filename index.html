@@ -66,7 +66,7 @@
                     <div class="col-lg-7">
                         <h1>Valentin Martinez</h1>
                         <p>Developer and student of the Ins. Ind. Luis A. Huergo</p>
-                        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" download class="btn-cv">
+                        <a href="img/CV-Valentin-Martinez.pdf" download="CV-Valentin-Martinez.pdf" class="btn-cv" id="cvDownload">
                             <i class="fa-solid fa-download"></i> Descargar CV
                         </a>
                     </div>
@@ -232,6 +232,11 @@
     <script>
         const themeToggle = document.getElementById('themeToggle');
         const icon = themeToggle.querySelector('i');
+        const cvDownload = document.getElementById('cvDownload');
+
+        cvDownload.addEventListener('click', () => {
+            window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank', 'noopener,noreferrer');
+        });
 
         themeToggle.addEventListener('click', () => {
             document.body.classList.toggle('light-mode');
